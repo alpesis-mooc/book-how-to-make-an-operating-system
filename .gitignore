@@ -3,5 +3,11 @@
 *.swn
 *.swp
 
+# compile
+*.o
+*.a
+*.so
+
 # vagrant box
 *.box
+.vagrant
